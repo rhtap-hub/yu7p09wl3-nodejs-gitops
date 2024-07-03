@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: yu7p09wl3-nodejs-gitops-repository
+spec:
+  url: https://github.com/rhtap-hub/yu7p09wl3-nodejs-gitops
